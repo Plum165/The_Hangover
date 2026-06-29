@@ -23,7 +23,7 @@ Team is computing under University of Cape Town
 - [Moegamat Samsodien](https://www.linkedin.com/in/moegamatsamsodien/)
 - [Team Mate 2](https://www.linkedin.com/in/)
 - [Team Mate 3](https://www.linkedin.com/in/)
-- [Team Mate 4](https://www.linkedin.com/in/)
+- [Team Mate 4](https://www.linkedin.com/in/kholil-nurza-aa66462a6/)
 
 ## 📧 Other Contact Info
 - Portfilio : [Moegamat Samsodien](https://moegamat-samsodien-portfolio.vercel.app/)
