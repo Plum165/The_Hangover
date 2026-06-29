@@ -2,13 +2,13 @@
 
 ## ⚒️ Team Name
 ``` c
-Replace Team_name
+cache22
 ```
 
 ## 👥 Members
 | Name     | Role                | Email |
 |----------|---------------------|-------------|
-| **Team Mate 1**   | Lead Backend Developer   | email@g.com |
+| **Moegamat Samsodien**   | Lead Backend Developer   | rashaadsm2004@gmail.com |
 | **Team Mate 2**   | Designer / Backend Developer   | email@g.com |
 | **Team Mate 3**   | Designer / Frontend Developer  | email@g.com |
 
