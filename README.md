@@ -1,6 +1,4 @@
-# Hackathon Submission Template 
-
-Template for all users
+# The Hangover
 
 ---
 
