@@ -20,10 +20,10 @@ Team is computing under University of Cape Town
 ```
 
 ## Linkedin
-- Moegamat Samsodien : <https://www.linkedin.com/in/moegamatsamsodien/>
-- Team Mate 2 : <https://www.linkedin.com/in/>
-- Team Mate 3 : <https://www.linkedin.com/in/>
-- Team Mate 4 : <https://www.linkedin.com/in/>
+- [Moegamat Samsodien](https://www.linkedin.com/in/moegamatsamsodien/)
+- [Team Mate 2](https://www.linkedin.com/in/)
+- [Team Mate 3](https://www.linkedin.com/in/)
+- [Team Mate 4](https://www.linkedin.com/in/)
 
 ## 📧 Other Contact Info
-- Portfilio : <https://moegamat-samsodien-portfolio.vercel.app/>
+- Portfilio : [Moegamat Samsodien](https://moegamat-samsodien-portfolio.vercel.app/)
