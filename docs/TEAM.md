@@ -11,7 +11,7 @@ cache22
 | **Moegamat Samsodien**   | Lead Backend Developer   | rashaadsm2004@gmail.com |
 | **Team Mate 2**   | Designer / Backend Developer   | email@g.com |
 | **Team Mate 3**   | Designer / Frontend Developer  | email@g.com |
-| **Team Mate 4**   | Designer / Frontend Developer  | kaneen0304@gmail.com |
+| **Kholil Nurza**   | Designer / Frontend Developer  | kaneen0304@gmail.com |
 
 
 ## 🏫 Institution
@@ -23,7 +23,7 @@ Team is computing under University of Cape Town
 - [Moegamat Samsodien](https://www.linkedin.com/in/moegamatsamsodien/)
 - [Team Mate 2](https://www.linkedin.com/in/)
 - [Team Mate 3](https://www.linkedin.com/in/)
-- [Team Mate 4](https://www.linkedin.com/in/kholil-nurza-aa66462a6/)
+- [Kholil Nurza](https://www.linkedin.com/in/kholil-nurza-aa66462a6/)
 
 ## 📧 Other Contact Info
 - Portfilio : [Moegamat Samsodien](https://moegamat-samsodien-portfolio.vercel.app/)
