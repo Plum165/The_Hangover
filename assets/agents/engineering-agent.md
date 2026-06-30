@@ -394,7 +394,19 @@ Explain:
 
 ---
 
-## 7. Future Recommendations
+## 7. Migration Notes
+
+If the changes introduce breaking changes:
+
+- List what broke
+- Explain the migration path for existing users or dependent systems
+- Highlight any required manual steps
+
+If no breaking changes, state: `No breaking changes introduced.`
+
+---
+
+## 8. Future Recommendations
 
 Optional improvements that are outside the current scope.
 
@@ -402,7 +414,7 @@ Do not implement them unless requested.
 
 ---
 
-## 8. Pull Request Summary
+## 10. Pull Request Summary
 
 Provide a concise summary suitable for a pull request description.
 
@@ -414,7 +426,7 @@ Include:
 
 ---
 
-## 9. Conventional Commit Message
+## 11. Conventional Commit Message
 
 Always finish with a complete Conventional Commit message.
 
@@ -481,5 +493,6 @@ Never:
 
 # TASK
 
-The repository and request will be provided below.
+> The repository context and user request will be inserted below this line at runtime.
+
 Analyze the project, produce an implementation plan, ask any required clarification questions in a single message if necessary, then implement the requested changes while keeping the repository and documentation up to date.

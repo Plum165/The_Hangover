@@ -90,16 +90,20 @@ You must maintain:
 - docs/ACKNOWLEDGEMENTS.md → Dependencies, credits
 
 #### Modules
-- src/README.md → Codebase architecture overview
+- src/README.md → Codebase architecture overview (create if absent)
 - src/frontend/README.md → UI structure (if exists)
 - src/backend/README.md → API/service structure (if exists)
 
 #### Supporting folders
 - assets/README.md → Images, branding, icons
 - scripts/README.md → Automation scripts
-- demo/README.md → Demo instructions
+- demo/README.md → Demo setup and run instructions
 - demo/OVERVIEW.md → High-level demo explanation
 - vendor/README.md → Third-party code explanation
+
+#### Docs
+- docs/TEAM.md → Contributors, roles, and contact information
+- docs/ACKNOWLEDGEMENTS.md → Dependencies, credits, and licenses
 
 ---
 
@@ -299,6 +303,9 @@ docs(sync): synchronize repository documentation with codebase state
 - Refreshed folder structure documentation
 - Removed deprecated references
 - Improved clarity and consistency across docs
+```
+
+---
 
 ## STRICT RULES
 
@@ -319,3 +326,10 @@ Always:
 ✗ Skip folder README updates
 ✗ Introduce inconsistencies
 ✗ Ask unnecessary questions unless blocking
+
+---
+
+# TASK
+
+The repository context and user request will be provided below.
+Scan the repository, identify all outdated or missing documentation, and synchronize every relevant markdown file with the current state of the codebase.
